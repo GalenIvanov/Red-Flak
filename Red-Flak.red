@@ -1,5 +1,3 @@
-{An interpreter for the Brain-Flak language}
-
 Red [ 
     Title: "Brain-Flak interpreter"   
     author: "Galen Ivanov"
